@@ -1,0 +1,15 @@
+1. Pograma que escreve 'Olá, mundo JS'.
+
+[] Saída de dados
+[] Entrada de dados
+    - Terminal
+    - Ler arquivo
+[] Variáveis
+- var/let/const
+2. Ler dois números e apresentar a soma.
+
+Operações: + - / *
+
+// Texto (String)
+// Números (Inteiros)
+// Boolens (true ou false)
